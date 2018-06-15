@@ -1,0 +1,17 @@
+@import "app-colors";
+@import "mixins";
+
+.button {
+  @include resetButton;
+  padding: 5px;
+  border-radius: 5px;
+  color: $pink;
+  border: 1px solid;
+  box-sizing: border-box;
+}
+
+.button_isPrimary {
+  background: $orangeGradian;
+  color: white;
+  border: none;
+}

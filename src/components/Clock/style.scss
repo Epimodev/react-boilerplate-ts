@@ -1,0 +1,14 @@
+@import "app-colors";
+
+.clock {
+  width: 500px;
+  height: 200px;
+  line-height: 200px;
+  text-align: center;
+  font-size: 40px;
+  border: 1px solid;
+  border-radius: 10px;
+  color: white;
+  background: $orangeGradian;
+  box-shadow: 0 5px 20px rgba(black, 0.5);
+}
