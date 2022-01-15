@@ -40,7 +40,7 @@
     "precise-commits": "^1.0.2",
     "prettier": "^1.13.5",
     "sass-loader": "^7.0.3",
-    "shelljs": "^0.8.1",
+    "shelljs": "^0.8.5",
     "style-loader": "^0.21.0",
     "svg-sprite-html-webpack": "^2.3.0",
     "ts-loader": "^3.5.0",
